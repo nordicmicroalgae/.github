@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  Nordic Microalgae is a source of information about microalgae and
-  related organisms in the Nordic area, i.e the Baltic Sea,
-  the North East Atlantic and lakes, rivers and streams in the area.
+  Nordic Microalgae is a source of information about microalgae <br />and
+  related organisms in the Nordic area, i.e the Baltic Sea,<br />
+  the North East Atlantic and lakes, rivers and streams in the area.<br /><br />
   It is used for science, education, environmental monitoring etc.
 </p>
